@@ -1,7 +1,7 @@
 public class Circle extends Shape {
 
     @Override
-    String printName() {
+    String getName() {
         return "Quadrilateral";
     }
 }

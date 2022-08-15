@@ -1,7 +1,7 @@
 public class Rhombus extends Shape {
 
     @Override
-    String printName() {
+    String getName() {
         return "Rhombus";
     }
 }

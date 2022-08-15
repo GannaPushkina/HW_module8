@@ -1,7 +1,7 @@
 public class Quadrilateral extends Shape {
 
     @Override
-    String printName() {
+    String getName() {
         return "Quadrilateral";
     }
 }

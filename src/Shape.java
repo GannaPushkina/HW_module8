@@ -1,5 +1,5 @@
 abstract class Shape {
 
-    abstract String printName();
+    abstract String getName();
 
 }

@@ -1,7 +1,7 @@
 public class Triangle extends Shape {
 
     @Override
-    String printName() {
+    String getName() {
         return "Triangle";
     }
 }
